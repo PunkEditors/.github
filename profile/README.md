@@ -12,7 +12,7 @@ This organization aims to use the power of information technology to self-publis
 
 Just do it. This is an open space and everyone is welcome. 
 
-## what are we doing? 
+## What are we doing? 
 
 Having fun and offering an alternative decentralized publishing system.
 
